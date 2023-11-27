@@ -10,4 +10,4 @@
 但在github上我找了好久但還是不知道要如何將我的資料整理放好
 譬如說作業一 放到作業一的檔案
 以此類推
-[作業一]()
+[作業一](https://github.com/fitdaniel/yzu-swiftui-1101501/blob/main/hw1.md)
